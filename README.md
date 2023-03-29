@@ -1,3 +1,16 @@
+# Task
+1. fetch data from api
+
+2. display data dynamically
+
+3. fetch data in every 10 sec
+
+4. show timer
+
+5. run infinitely
+
+[App: fecth data every 10 seconds](https://pesto-mock-git-master-neerajverma101.vercel.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
